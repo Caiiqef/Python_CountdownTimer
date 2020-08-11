@@ -15,16 +15,16 @@ m1 = int(minutos)
 s1 = int(segundos)
 
 hora = int(17)
-minutos = int(30)
+minuto = int(30)
 seg = int(0)
 
 x1 = (hora-h1)
-x2 = (minutos-m1)
+x2 = (minuto-m1)
 x3 = (seg-s1)
 
 hourz=x1
-minz=x2
-secz=(60 - (x3*-1))
+minz=(60 - (x2 * -1))
+secz=(60 - (x3 * -1))
 
 hour=int(hourz)
 min=int(minz)
