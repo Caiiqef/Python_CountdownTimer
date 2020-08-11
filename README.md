@@ -3,5 +3,6 @@
 Simples projeto de contagem regressiva com um horário pré-definido. 
 Baseado no projeto encontrado na internet feito por Adam Gay.
 
-### Próximas atualizações:
+### Últimas atualizações:
 - Linhas de código comentadas.
+- Cálculos atualizados
